@@ -1,2 +1,2 @@
 # youtube-analysis
-Doing analysis on favorite youtube channels using yputube api and eda
+Doing analysis on my favorite youtube channels using youtube API and eda
